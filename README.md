@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66965698/155249471-f8534194-d033-4d86-92fe-ba95b5cd3d74.png" />
+  <img src="https://user-images.githubusercontent.com/66965698/158504482-b6253a45-761a-44e0-891e-7091e74eef52.jpeg" />
 </p>
 
 <h1 align="center">Delux DX ONE</h1>
