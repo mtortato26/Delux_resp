@@ -24,15 +24,15 @@
 
 <h3>Pinout</h3>
 
-|Arduino nano|A0 - A7 -- D0 - D13|
+|Arduino nano|54 digital input/output - 16 analog input/output|
 |---|---|
-|Ethernet Shield Enc28j60|D10 - D13|
-|Drive H L9110s|D2 - D5|
-|Servo motor Sg90|D6|
-|Display Oled SSD1306|A4 - A5|
-|Buzzer|A7|
-|Infra-red Lm393|A0 - A3 - A6|
-|Serial port|D0 - D1|
+|Ethernet Shield Enc28j60|Nan|
+|None|Nan|
+|None|Nan|
+|None|Nan|
+|Buzzer|Nan|
+|Infra-red Lm393|Nan|
+|Serial port|Nan|
 
 <h2>Licença</h2>
 <p>Copyright (c) 2021-2022 Delux corporation All rights reserved.</p>
