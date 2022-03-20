@@ -20,7 +20,7 @@
 
 <p>Repositorio para arquivos e codigos fonte "DX".</p>
 
-<h2>Dispositivos de entrada e saida (GPIO)</h2>
+<h2>GPIO</h2>
 
 <h3>Pinout</h3>
 
