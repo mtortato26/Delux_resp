@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/66965698/158509297-37028fee-e3b8-4e9e-831a-385115857958.png" />
 </p>
 
-<h1 align="center">Delux DX ONE</h1>
+<h1 align="center">Delux DX</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
