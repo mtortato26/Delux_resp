@@ -17,8 +17,8 @@
 </p>
 
 <h2>Descrição</h2>
-
-<p>Repositorio para arquivos e codigos fonte "DX".</p>
+<h3>Library</h3>
+<p>Ethercard: https://github.com/njh/EtherCard/archive/master.zip</p>
 
 <h2>GPIO</h2>
 
