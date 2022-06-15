@@ -24,22 +24,14 @@
 
 <h3>Pinout</h3>
 
-|ENC28J60|Arduino Mega|Notes|
+| ENC28J60 | Arduino Mega | Notes |
 |---|---|---|
-|VCC|3.3V|Nan|
-|GND|GND|Nan|
-|SCK|Pin 52|Nan|	
-|MISO|Pin 50|Nan|	
-|MOSI|Pin 51|Nan|
-|CS|Pin 53|Selectable with the ether.begin() function|
-
-|ENC28J60|Arduino Mega|Notes|
-|VCC|3.3V|Nan|	
-|GND|GND|Nan|	
-|SCK|Pin 52|Nan|	
-|MISO|Pin 50|Nan|	
-|MOSI|Pin 51|Nan|
-|CS|Pin 53|Selectable with the ether.begin() function|
+| VCC | 3.3V | Nan |
+| GND | GND | Nan |
+| SCK | Pin 52 | Nan |	
+| MISO | Pin 50 | Nan |	
+| MOSI | Pin 51 | Nan |
+| CS | Pin 53 | Selectable with the ether.begin() function |
 
 <h2>Licença</h2>
 <p>Copyright (c) 2021-2022 Delux corporation All rights reserved.</p>
