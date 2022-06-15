@@ -17,8 +17,13 @@
 </p>
 
 <h2>Descrição</h2>
-<h3>Library</h3>
-<p>Ethercard: https://github.com/njh/EtherCard/archive/master.zip</p>
+
+<h3>Library:</h3>
+<p>- Ethercard: https://github.com/njh/EtherCard/archive/master.zip</p>
+
+<p>- LiquidCrystal I2C: https://github.com/johnrickman/LiquidCrystal_I2C</p>
+
+<p>- Thermocouple MAX6675: https://github.com/adafruit/MAX6675-library</p>
 
 <h2>GPIO</h2>
 
