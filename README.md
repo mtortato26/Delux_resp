@@ -24,15 +24,14 @@
 
 <h3>Pinout</h3>
 
-|Arduino nano|54 digital input/output - 16 analog input/output|
-|---|---|
-|Ethernet Shield Enc28j60|Nan|
-|None|Nan|
-|None|Nan|
-|None|Nan|
-|Buzzer|Nan|
-|Infra-red Lm393|Nan|
-|Serial port|Nan|
+|ENC28J60|Arduino Mega|Notes|
+|---|---|---|
+|VCC|3.3V|Nan|
+|GND|GND|Nan|
+|SCK|Pin 52|Nan|	
+|MISO|Pin 50|Nan|	
+|MOSI|Pin 51|Nan|
+|CS|Pin 53|Selectable with the ether.begin() function|
 
 |ENC28J60|Arduino Mega|Notes|
 |VCC|3.3V|Nan|	
