@@ -34,13 +34,13 @@
 |Infra-red Lm393|Nan|
 |Serial port|Nan|
 
-ENC28J60|Arduino Mega|Notes
-VCC|3.3V	
-GND|GND	
-SCK|Pin 52	
-MISO|Pin 50	
-MOSI|Pin 51	
-CS|Pin 53|Selectable with the ether.begin() function
+|ENC28J60|Arduino Mega|Notes|
+|VCC|3.3V|	
+|GND|GND|	
+|SCK|Pin 52|	
+|MISO|Pin 50|	
+|MOSI|Pin 51|
+|CS|Pin 53|Selectable with the ether.begin() function|
 
 <h2>Licença</h2>
 <p>Copyright (c) 2021-2022 Delux corporation All rights reserved.</p>
