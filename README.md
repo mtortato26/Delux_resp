@@ -35,11 +35,11 @@
 |Serial port|Nan|
 
 |ENC28J60|Arduino Mega|Notes|
-|VCC|3.3V|	
-|GND|GND|	
-|SCK|Pin 52|	
-|MISO|Pin 50|	
-|MOSI|Pin 51|
+|VCC|3.3V|Nan|	
+|GND|GND|Nan|	
+|SCK|Pin 52|Nan|	
+|MISO|Pin 50|Nan|	
+|MOSI|Pin 51|Nan|
 |CS|Pin 53|Selectable with the ether.begin() function|
 
 <h2>Licença</h2>
