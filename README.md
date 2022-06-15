@@ -22,7 +22,7 @@
 
 <h2>GPIO</h2>
 
-<h3>Pinout</h3>
+<h3>PIN Connections using an Arduino Mega</h3>
 
 | ENC28J60 | Arduino Mega | Notes |
 |---|---|---|
